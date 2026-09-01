@@ -2,14 +2,16 @@
 
 ## 1. 개요 및 기능
 
-브랜드 브리프를 입력하면 OpenAI API를 활용해 브랜드 네이밍부터 슬로건, 스토리, 컬러 팔레트, 로고 시안까지 한 번에 생성하는 Python 프로젝트
+- **개요**  
+브랜드 브리프를 입력하면 OpenAI API를 활용해 브랜드 네이밍부터 슬로건, 스토리, 컬러 팔레트, 로고 시안까지 한 번에 생성하는 Python 프로젝트  
 
-- 브랜드 네이밍 후보 3개와 각 이름의 한글 발음·의미 제안
-- 후보 중 가장 적합한 AI 추천 브랜드명 선정
-- 슬로건 후보 3개와 AI 추천 슬로건 선정
-- 약 300자 내외 분량의 브랜드 스토리 생성
-- 메인 컬러와 서브 컬러로 구성된 컬러 팔레트 생성
-- AI 로고 시안 2개 생성
+- **기능**  
+\- 브랜드 네이밍 후보 3개와 각 이름의 한글 발음·의미 제안  
+\- 후보 중 가장 적합한 AI 추천 브랜드명 선정  
+\- 슬로건 후보 3개와 AI 추천 슬로건 선정  
+\- 약 300자 내외 분량의 브랜드 스토리 생성  
+\- 메인 컬러와 서브 컬러로 구성된 컬러 팔레트 생성  
+\- AI 로고 시안 2개 생성  
 
 ## 2. 실행 준비
 
@@ -59,3 +61,10 @@ python brand_generator.py
 - `logo_01.png`: 첫 번째 AI 로고 시안
 - `logo_02.png`: 두 번째 AI 로고 시안
 
+## 6. 테스트 결과 화면 스크린샷  
+
+<img src="images/sample_test1.png" width="900">  
+<img src="images/sample_test2.png" width="900">  
+<img src="images/sample_test3.png" width="900">  
+<img src="images/sample_test4.png" width="900">  
+<img src="images/sample_test5.png" width="900">  
