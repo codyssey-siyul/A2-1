@@ -50,11 +50,11 @@ OPENAI_API_KEY=your_api_key_here
 python brand_generator.py
 ```
 
-실행 후 브리프 파일 경로에 `brief.json`을 입력합니다. 출력 폴더는 Enter를 누르면 기본값인 `./output`이 사용
+실행 후 브리프 파일 경로에 `brief.json`을 입력. 출력 폴더는 Enter를 누르면 기본값인 `./output`이 사용
 
 ## 5. 결과물
 
-`output` 폴더에 다음 파일이 생성됩니다.
+`output` 폴더에 다음 파일이 생성
 
 - `brand_result.json`: 네이밍, 추천 네임, 슬로건, 추천 슬로건, 브랜드 스토리, 컬러 정보
 - `color_palette.png`: 생성된 컬러 팔레트 이미지
